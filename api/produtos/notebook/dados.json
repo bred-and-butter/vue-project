@@ -5,7 +5,7 @@
     "descricao": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem reiciendis velit fugit sed quis asperiores quae a impedit? Odio, culpa?",
     "estoque": 12,
     "img": "./api/produtos/notebook/notebook-foto.jpg",
-    "avaliacoes": [
+    "reviews": [
         {
             "nome": "Fábio",
             "estrelas": 5,
